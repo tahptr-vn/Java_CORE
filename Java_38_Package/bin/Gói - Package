@@ -1,0 +1,11 @@
+Package là 1 thư viện tập hợp các lớp nó cung cấp chức năng bảo vệ truy cập và quản lý không gian tên
+
+giúp phân hoạch chia nhỏ không gian để dễ quản lý hơn
+- Tên gói phải viết bằng chữ thường 
+- Tên gói không bắt đầu bằng java hoặc javax và số hoặc dấu -
+- Trong cùng 1 gói không có gói trùng tên nhau 
+- Trong 1 gói có thể có nhiều gói con
+
+syntax : package packageName;
+
+muốn truy cập dữ liệu từ package khác thì phải import : import otherPackageName;

@@ -1,0 +1,5 @@
+Khả năng truy cập
+private : class
+default : class, package
+protected : class, package, subclass
+public : class, package, subclass, ALL

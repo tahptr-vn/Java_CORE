@@ -1,0 +1,30 @@
+Lớp Math cung cấp các phương thức và hằng số toán học khác nhau và đều là static mà không cần import 
+
+có 3 trường tĩnh:
+- E : cơ số logarit (2.71828)
+- PI : giá trị pi (3.14159)
+- TAU : x2 giá trị pi (6.28318)
+
+Các phương thức của lớp Math: 
+
+abs(a): Tính giá trị tuyệt đối
+acos(a): Tính acos của góc
+addExact(a,b): Tính tổng các đổi số của nó, ném ra exception nếu kết quả làm tràn kích thước của kiểu dữ liệu
+asin(a): Tính asin của một góc
+atan(a): Tính atan của một góc
+atan2(a,b): Tính atan2
+ceil(a): Trả về giá trị nguyên lớn hơn hoặc bằng đối số
+cos(a): Tính cosion của một góc
+floor(a): Trả về giá trị nhỏ hơn hoặc bằng đối số
+max(a,b): Trả về giá trị lớn nhất giữa 2 số
+min(a,b): Trả về giá trị nhỏ nhất giữa 2 số
+pow(a,b): Hàm tính lũy thừa a^b
+random(): Trả về một số ngẫu nhiên (0.0 --> 1.0)
+round(a): Hàm làm tròn
+sqrt(a): Hàm căn bậc hai
+ 
+ Tips để lấy các chữ số sau dấu phẩy : 
+ nếu lấy 2 số thì (giá trị* 100) rồi làm tròn sau đó / 100
+ nếu lấy 3 số thì (giá trị* 1000) rồi làm tròn sau đó / 1000
+ ...
+ 

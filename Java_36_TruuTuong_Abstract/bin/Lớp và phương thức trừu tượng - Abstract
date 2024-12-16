@@ -1,0 +1,9 @@
+Lớp trừu tượng không thể khởi tạo ra các đối tượng như các lớp khác mà phải khởi tạo thông qua
+những lớp con của nó mặc dù vẫn có phương thức constructor
+
+trong class trừu tượng có các phương thức trừu tượng hoặc không trừu tượng đều được
+trong phương thức trừu tượng không có phần thân
+
+Nếu không muốn hiện thực nó cụ thể mà chỉ là một lớp chung chung thì nó là lớp abstract và trong lớp abstract
+có thể tạo ra các phương thức abstract . Phương thức abstract là phương thức không có hiện thực cụ thể và những
+lớp con extends lớp abstract đó sẽ phải hiện thực lại cụ thể phương thức abstract của lớp abstract đó

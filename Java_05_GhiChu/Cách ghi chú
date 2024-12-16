@@ -1,0 +1,16 @@
+Ghi chú dùng để chú thích , mô tả, giải thích , nhận xét nội dung về đoạn mã 
+
+ghi chú trên 1 dòng :
+// nội dung chú thích
+
+ghi chú trên nhiều dòng :
+/*
+nội dung chú thích
+ */
+ 
+ghi chú theo javadoc :
+/**
+* Nội dung chú thích
+*/
+
+Cách tạo tài liệu javadoc: Project => Generate JavaDoc

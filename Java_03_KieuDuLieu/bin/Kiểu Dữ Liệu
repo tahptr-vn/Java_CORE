@@ -1,0 +1,5 @@
+Kiểu dữ liệu nguyên thủy: byte, short, int , long , float, double, boolean, char
+Kiểu dữ liệu đối tượng: String, Array, Byte, Short, Int, Long, Float, Double, Boolean, Char,...
+
+phân biệt kiểu dữ liệu nguyên thủy vs kiểu dữ liệu đối tượng : 
+- kiểu dữ liệu đối tượng chữ cái đầu tiên được viết hoa

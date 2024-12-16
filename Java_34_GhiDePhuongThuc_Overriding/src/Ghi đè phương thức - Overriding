@@ -1,0 +1,8 @@
+Overriding được sử dụng trong TH lớp con kế thừa từ lớp cha, muốn định nghĩa lại một phương thức đã có ở lớp cha
+
+quy tắc:
+- lớp con và lớp cha có mối quan hệ kế thừa
+- Phương thức trong lớp con có tên giống với tên phương thức của lớp cha
+- Phương thức trong lớp con phải có tham số giống với lớp cha
+
+abstract cũng là một trường hợp của ghi đè phương thức

@@ -1,0 +1,2 @@
+Toán tử điều kiện 3 ngôi : 
+Syntax: (boolean-expression) ? if-true-return-this : if-false-return-this;

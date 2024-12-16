@@ -1,0 +1,29 @@
+Muốn xây dựng một lớp cần phải xác định:
+- Thuộc tính( biến) (property)
+- Hành vi ( phương thức) (method)
+
+Định nghĩa đầy đủ của 1 lớp:
+
+public: khả năng truy xuất của lớp
+
+abstract : lớp trừu tượng, không thể khởi tạo
+
+final: lớp hằng không có lớp con, không kế thừa
+
+class ClassName : tên lớp
+
+extends SuperClass: kế thừa lớp cha SuperClass
+
+implements Interfaces: giao diện được cài đặt bởi Class
+
+{
+
+Khai báo các biến
+
+Khai báo các phương thức
+
+} 
+
+Lưu ý về phương thức constructor: không có kiểu dữ liệu trả về, tên trùng với tên ClassName
+Lớp là khuôn mãu để tạo ra đối tượng
+Đối tượng là thể hiện của lớp

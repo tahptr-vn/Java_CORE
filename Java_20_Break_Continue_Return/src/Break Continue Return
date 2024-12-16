@@ -1,0 +1,10 @@
+Cách sử dụng Break, Continue, Return;
+
+- break, continue có thể dùng cùng với label hoặc không
+	label: dùng để chỉ định chỗ cho các lệnh continue và break
+	
+Break: dừng vòng lặp
+Continue: không dừng vòng lặp nhưng skip những câu lệnh phía dưới và tiếp tục lặp giá trị tiếp theo 
+Return: có 2 dạng :
+- không trả về giá trị: khi gặp return; thì nó sẽ ngưng luôn chương trình không thực thi đoạn code dưới nữa
+- trả về 1 giá trị

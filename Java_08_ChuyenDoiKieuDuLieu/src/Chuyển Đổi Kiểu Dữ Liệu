@@ -1,0 +1,8 @@
+Để chuyển từ 1 kiểu dữ liệu này sang kiểu dữ liệu khác có 2 dạng :
+- Ép kiểu ngầm định: ép từ kiểu dữ liệu nhỏ sang kiểu dữ liệu lớn hơn
+- Ép kiểu tường minh: ép từ kiểu dữ liệu lớn sang kiểu dữ liệu nhỏ
+
+3 dạng chuyển đổi kiểu dữ liệu: 
+- Chuyển đổi kiểu dữ liệu cơ bản: (New Type)value;
+- Chuyển đổi kiểu cho đối tượng: (New Class)object;
+- Chuyển đổi kiểu dữ liệu cơ bản sang đối tượng và ngược lại: int intObject = new Integer(32);

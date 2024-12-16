@@ -1,0 +1,32 @@
+chuỗi có ba thể hiện
+- String : bất biến
+- StringBuffer : khả biến, multi-thread
+- StringBuilder: khả biến, single-thread
+Đều là các đối tượng 
+
+- Phương thức kiểm tra lớp String :
+	+ length()
+	+ charAt()
+	+ getChars(...)
+	+ getBytes(...)
+	+ hashCode()
+- Phương thức so sánh lớp String :
+	+ equals(...)
+	+ equalsIgnoreCase(...)
+	+ compareTo(...)
+	+ compareToIgnoreCase(...)
+	+ regionMatches(...)
+	+ startsWith(...) 
+	+ endWith(...)
+- Phương thức lập chỉ mục lớp String :
+	+ indexOf(...)
+	+ lastIndexOf(...)
+- Phương thức chuyển đổi lớp String :
+	+ substring(...)
+	+ concat(...)
+	+ replace(...)
+	+ toLowerCase(...)
+	+ toUpperCase(...)
+	+ trim()
+	+ toCharArray(...)
+	+ intern()

@@ -1,0 +1,7 @@
+Tên biến chỉ có thể bắt đầu bằng một chữ cái, ký hiệu $ hoặc dấu _
+Tên biến phân biệt chữ hoa chữ thường
+Tên biến không được sử dụng khoảng cách trong tên biến
+Không nên đặt tên biến trùng với các từ khóa trong Java
+
+
+abstract, assert, boolean, break , byte, case , catch, char , class, const, continue,default , do , double ,...

@@ -1,0 +1,11 @@
+-Interface là một bản thiết kế của một lớp
+-Trong interface chỉ có phương thức trừu tượng (dù có viết abstract hay không đều được) và hằng số
+-Hằng số mặc định ở dạng public static final
+-Phương thức ở dạng public
+-Giống abstract không thể khởi tạo bằng constructor
+
+Mục đích : Hiện thực hóa tính đa kế thừa trong java
+ 
+-Một class có thể triển khai một hoặc nhiều interface tại một thời điểm và class đó buộc phải định nghĩa
+lại tất cả các phương thức có trong interface đã implements.
+- Một interface có thể kế thừa từ một interface khác

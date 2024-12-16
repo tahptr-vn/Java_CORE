@@ -1,0 +1,16 @@
+Kế thừa là một cơ chế giúp cho đối tượng con có được các hành vi và thuộc tính của đối tượng cha
+xây dựng lớp con mới dựa trên lớp cha đã được tạo sẵn.
+
+các thuộc tính trong lớp cha nên là protected
+
+có 3 dạng kế thừa :
+- kế thừa đơn
+- kế thừa nhiều tầng
+- kế thừa theo thứ bậc
+
+giúp tiết kiệm nhiều thời gian không phải viết lại các phương thức cũ hay thuộc tính cũ.
+
+- Không có đa kế thừa: khi đa kế thừa từ nhiều lớp cha nếu có chung 1 phương thức thì khi khởi tạo và gọi
+phương thức đó ra thì không biết đối tượng con gọi phương thức của đối tượng cha nào
+- Không có khái niệm 1 class con kế thừa nhiều class cha.
+- Class cha có nhiều class con và class con chỉ có 1 class cha.

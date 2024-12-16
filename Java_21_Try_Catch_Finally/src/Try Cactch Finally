@@ -1,0 +1,14 @@
+Syntax :
+try {
+	statement1(s)
+} catch(exceptiontype name) {
+	statement(s)
+} catch(exceptiontype name) {
+	statement2(s)
+} finally {
+	statement3(s)
+}
+
+try : có thể sẽ ném ra ngoại lệ
+catch : sẽ thực hiện việc bắt các ngoại lệ xảy ra
+finally : sẽ thực hiện bất chấp ngoại lệ có xảy ra hay không (có thể có hoặc không đều được)
